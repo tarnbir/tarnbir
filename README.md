@@ -1,4 +1,4 @@
-### Hi there, I'm Tarnbir :turtle:
+### Hi There, I'm Tarnbir :turtle:
 ****
 
 *  :technologist: Studied Data Analytics at [Juno Collage](https://github.com/HackerYou)
