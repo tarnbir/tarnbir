@@ -2,8 +2,10 @@
 ****
 
 *  :technologist: Studied Data Analytics at [Juno Collage](https://github.com/HackerYou)
-*  :books: Background in CCIT(Comminication Culture Information Technology) at UofT
+*  :books: Background in CCIT(Communication Culture Information Technology) at UofT
 *  :basketball_man: Hobbies: Gym Rat, Watches, Gamer, Outdoor activities
+*  :notebook_with_decorative_cover: Skills: Adaptive, Persuasive, and Great Decision Maker
+
 
 ****
 :desktop_computer: Tech Skills:
