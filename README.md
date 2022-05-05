@@ -7,7 +7,7 @@
     *  :weight_lifting_man: Gym Rat 
     *  :watch: Collecting Watches 
     *  :video_game: Gamer 
-    *  :wine_glass: Going Out
+    *  :car: Going Out/drives
 *  :notebook_with_decorative_cover: Skills: Adaptive, Persuasive, Communicative, and Great Decision Maker
 
 
