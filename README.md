@@ -2,10 +2,10 @@
 ****
 
 *  :technologist: Studied Data Analytics at [Juno Collage](https://github.com/HackerYou)
-*  :books: Background in CCIT(Communication Culture Information Technology) at UofT, And LLB Law at the University of Brighton
+*  :books: Background in LLB HONS Law at the University of Brighton
 *  :basketball_man: Hobbies: 
     *  :weight_lifting_man: Gym Rat 
-    *  :watch: Collecting Watches 
+    *  :book: Reading 
     *  :video_game: Gamer 
 *  :notebook_with_decorative_cover: Skills: Adaptive, Persuasive, Communicative, and Great Decision Maker
 
